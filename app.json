@@ -1,0 +1,15 @@
+{
+  "name": "things",
+  "description": "Track things that are worth tracking.",
+  "keywords": [
+    "things",
+    "track",
+    "management"
+  ],
+  "website": "https://trackthings.herokuapp.com",
+  "logo": "https://trackthings.herokuapp.com/images/things-logo.png",
+  "env": {
+    "NODE_ENV": "dev"
+  },
+  "addons": [ ]
+}
